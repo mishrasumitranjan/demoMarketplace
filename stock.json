@@ -1,0 +1,140 @@
+{
+    "Categories": [
+        {
+            "category": "Footwear",
+            "products": [
+                {
+                    "name": "ASIAN Men's Wonder-13 Sports Running Shoes",
+                    "details": "Lightweight & Breathable ",
+                    "rating": 3.9,
+                    "price": 574,
+                    "colors": [
+                        "Green",
+                        "Grey",
+                        "Navy Mustard",
+                        "Red",
+                        "Turquoise",
+                        "White",
+                        "Black"
+                    ]
+                },
+                {
+                    "name": "Crocs unisex-adult Bayaband Clog Clog",
+                    "details": "Confidently comfortable",
+                    "rating": 4.3,
+                    "price": 3140,
+                    "colors": []
+                },
+                {
+                    "name": "Bata Mens WAVER Slippers",
+                    "details": "Comfortable and Trendy",
+                    "rating": 4.0,
+                    "price": 265,
+                    "colors": [
+                        "Blue",
+                        "Grey"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Home Improvement",
+            "products": [
+                {
+                    "name": "GO WELL Multipurpose Wire Dishwashing Rags",
+                    "details": "Multipurpose Wire Dishwashing Rags for Wet and Dry Stainless Steel",
+                    "rating": 4.4,
+                    "price": 199,
+                    "colors": []
+                },
+                {
+                    "name": "GM 3060 E-Book",
+                    "details": "4 + 1 Power Strip Red & White Color 250 Volts",
+                    "rating": 4.5,
+                    "price": 449,
+                    "colors": []
+                },
+                {
+                    "name": "Spotzero",
+                    "details": "Spotzero by Milton Prime Mop with Big Wheels and Stainless Steel Wringer, (2 Refills)",
+                    "rating": 4.2,
+                    "price": 1399,
+                    "colors": [
+                        "Aqua Green"
+                    ]
+                },
+                {
+                    "name": "Plantex Self Adhesive Bathroom Shelf",
+                    "details": "Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf",
+                    "rating": 4.2,
+                    "price": 398,
+                    "colors": [
+                        "Black",
+                        "Chrome",
+                        "Just Launched"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Laptops",
+            "products": [
+                {
+                    "name": "Apple MacBook Air",
+                    "details": "M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad",
+                    "rating": 4.6,
+                    "price": 71990,
+                    "colors": [
+                        "Space Grey"
+                    ]
+                },
+                {
+                    "name": "HP Laptop 15s",
+                    "details": "12th Gen Intel Core i3, 15.6-inch (39.6 cm), 8GB DDR4, 512GB SSD, Thin & Light, Dual Speakers (Win 11, MSO 2021, 1.69 kg), fq5007TU / FQ5327TU",
+                    "rating": 4.0,
+                    "price": 37599,
+                    "colors": [
+                        "Silver"
+                    ]
+                },
+                {
+                    "name": "Acer Aspire Lite",
+                    "details": "12th Gen Intel Core i3-1215U Premium Metal Laptop (Windows 11 Home/8 GB RAM/512GB SSD) AL15-52, 39.62cm (15.6-inch) Full HD Display, Metal Body, Steel Gray, 1.59 Kg ",
+                    "rating": 4.0,
+                    "price": 33990,
+                    "colors": [
+                        "Steel Gray"
+                    ]
+                },
+                {
+                    "name": "ASUS TUF Gaming F15",
+                    "details": "15.6-inch (39.62 cms) FHD 144Hz, Intel Core i7-12700H 12th Gen, 4GB NVIDIA RTX 3050, Gaming Laptop (16GB/1TB SSD/Win11/MSO/90WHrs Battery/2.20 Kg), FX577ZC-HN192WS ",
+                    "rating": 4.1,
+                    "price": 83990,
+                    "colors": [
+                        "Gray"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Bags, Wallets and Luggage",
+            "products": [
+                {
+                    "name": "Safari Polypropylene (Pp) Suitcase",
+                    "details": "Safari Polypropylene (Pp) Pentagon Hardside Small Size Cabin Luggage Suitcase 55 Cm",
+                    "rating": 4.2,
+                    "price": 1899.0,
+                    "colors": []
+                },
+                {
+                    "name": "Rylan Umbrella",
+                    "details": "Automatic Open Travel Umbrella with Wind Vent",
+                    "rating": 4.2,
+                    "price": 445.0,
+                    "colors": []
+                }
+            ]
+        }
+    ]
+}

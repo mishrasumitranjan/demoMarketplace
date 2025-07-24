@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin",
+            "type": "admin",
+            "cart": []
+        },
+        {
+            "username": "user1",
+            "password": "user1",
+            "type": "user",
+            "cart": []
+        },
+        {
+            "username": "user2",
+            "password": "user2",
+            "type": "user",
+            "cart": []
+        }
+    ]
+}
